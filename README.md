@@ -10,3 +10,4 @@ SNKRS Monitors for discord groups live update restock, out of stock notify
 - [✔] ATC direct link
 - [✔] Quick Task
 - [✔] US Store
+<img src="ss.png" alt="Nike Snkrs Monitor"/>
